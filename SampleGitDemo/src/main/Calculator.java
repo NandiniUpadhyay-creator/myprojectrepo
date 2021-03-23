@@ -35,6 +35,7 @@ public class Calculator {
 	public static void five(int num1){
 	      System.out.println(num1*num1*num1*num1*num1);
 	  }
+
 	public static void br1fn1(int num1){
 	      System.out.println(num1*num1*num1*num1*num1);
 	  }
@@ -44,6 +45,15 @@ public class Calculator {
 	public static void br1fn3(int num1){
 	      System.out.println(num1*num1*num1*num1*num1);
 	  }
+
+	public static void masterfn1(int num1){
+	      System.out.println(num1*num1*num1*num1*num1);
+	  }
+	public static void masterfn2(int num1){
+	      System.out.println(num1*num1*num1*num1*num1);
+	  }
+	public static void masterfn3(int num1){
+	      System.out.println(num1*num1*num1*num1*num1);
+	  }
+	
 }
-
-
