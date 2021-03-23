@@ -25,8 +25,14 @@ public class Calculator {
 	public static void square(int num1,int num2){
 	      System.out.println(num1*num2);
 	  }
+
 	public static void cube(int num1){
 	      System.out.println(num1*num1*num1);
+	}
+	      
+	public static void fourthroot(int num1){
+	      System.out.println(num1*num1*num1*num1);
+
 	  }
 	
 }
